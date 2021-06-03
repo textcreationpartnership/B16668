@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Additional heads proposed by the master-shipwrights of England, in order to amend two ancient charters, dated anno 1605. and anno 1612. who, the better to accommodate navigation, and for the safety of shipping in general, were incorporated one entire company, with power to practice their art and mastery in all rivers, ports, harbours, and roads of England and Wales.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16668</idno><idno type="EEBO-CITATION">99886609</idno>
+  <idno type="VID">187529</idno>
+  <idno type="EEBO-PROQUEST">2240896776</idno>
+  
+            <idno type="STC">Wing A533A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[101]</idno>
+            <idno type="STC">ESTC R226271</idno>
+            <idno type="PROQUEST">ocm99886609</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886609e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187529)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[103])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Additional heads proposed by the master-shipwrights of England, in order to amend two ancient charters, dated anno 1605. and anno 1612. who, the better to accommodate navigation, and for the safety of shipping in general, were incorporated one entire company, with power to practice their art and mastery in all rivers, ports, harbours, and roads of England and Wales.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Shipbuilding --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187529:1"/>
+            <head>ADDITIONAL HEADS Proposed by the Master-Shipwrights of <hi>England,</hi> in order to amend Two Ancient Charters, dated <hi>Anno 1605.</hi> and <hi>Anno 1612.</hi> who, the better to accommodate Navigation, and for the safety of Shipping in general, were Incorporated one entire Company, with Power to Practice their Art and Mystery in all Rivers, Ports, Harbours, and Roads of <hi>England</hi> and <hi>Wales.</hi>
+            </head>
+            <p n="1">I. THAT the Master-Builders, Master-Yard-keepers, and other Master-Ship-wrights of <hi>England</hi> and <hi>Wales,</hi> may (all and every of them) pay an equal and proportionable Contri<g ref="char:EOLhyphen"/>bution of Tunnage and Poundage, agreeable to their Sta<g ref="char:EOLhyphen"/>tions, and the Burthen of the Ships and Vessels they Build and Repair (saving Their Majesties Men of War, which is humbly submitted to such Proportion, and to be paid in such manner as may be thought reaso<g ref="char:EOLhyphen"/>nable,) towards the support of the Company of Shipwrights of <hi>England,</hi> accor<g ref="char:EOLhyphen"/>ding to the first intent of Incorporating them, for the well breeding of able and skilful Workmen in that Art and Mystery, and to maintain their poor dis<g ref="char:EOLhyphen"/>abled Cripples, and superannuated decayed Members.</p>
+            <p n="2">II. That wheresoever the Master-Builders, or Master-Shipwrights of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> make Yards for the encrease and conveniency of Navigation, and to en<g ref="char:EOLhyphen"/>courage Trade, they may have and enjoy their Ways or Graving Grounds be<g ref="char:EOLhyphen"/>fore their Yards (as well as those in present being) and to lay before, Pass, and Float into, and out of all and every their respective Yards, all sorts of Tim<g ref="char:EOLhyphen"/>ber-Plank, and Firre for Masts and Yards, with other Materials: Provided, they be not detrimental to the River of <hi>Thames,</hi> or to any other River, Port or Harbour of <hi>England</hi> or <hi>Wales,</hi> with submission to the Lord High Admiral of <hi>England</hi> to be judge of it, in case disputes shall arise.</p>
+            <p n="3">III. That the Members of the said Company, for the conveniency and safety of Navigation, may be admitted to practice their Trade in all Rivers, Ports, Harbours, and Roads of <hi>England</hi> and <hi>Wales,</hi> as their Charters time out of mind, have directed: And, That the Certificate of the Masters and Own<g ref="char:EOLhyphen"/>ers of Ships, using the Trade of the River <hi>Tine,</hi> of <hi>Decemb.</hi> 1684. touching the intollerable practice of Shipwrights of <hi>Newcastle,</hi> may be considered.</p>
+            <p n="4">IV. That Apprentices Indentures, when Enrolled by the Shipwrights of <hi>England,</hi> or their Deputies in the Out-Ports, (agreeable to their former Char<g ref="char:EOLhyphen"/>ters) may be good to all intents and purposes. The Stat. 5. Q. <hi>Eliz.</hi> Cap. 5. among other Trades, expresly names the Indentures of Shipwrights Appren<g ref="char:EOLhyphen"/>tices, to be Enrolled in a Town Corporate; and the Custom of Cities and Corporation Towns, for private Inland Trades, are to the contrary.</p>
+            <p n="5">V. That the Order of Council, of the <hi>27th</hi> of <hi>March,</hi> 1638. and the same again renewed the <hi>18th</hi> of <hi>March,</hi> 1684/5 against the Interest of the said Com<g ref="char:EOLhyphen"/>pany, may with all submission be considered.</p>
+            <p n="6">VI. That the Members of the said Company may be Protected at their Trades, and not liable to be Imprest by common Press-Masters, to Serve as Seamen; but that a sufficient number of able Workmen, as their Majesties Navy and Yard service requires, may from time to time be supplied by the said Company, and their Deputies in the Out-Ports.</p>
+            <p n="7">VII. That there be a Clause to empower the Members of the said Com<g ref="char:EOLhyphen"/>pany, to observe and keep the hours of beginning to Work at Six a Clock in the Morning, and to depart from Work at Six a Clock at Night, as is, and hath been the usual Custom, with allowance of time for a Breakfast and Dinner, agreeable to the Season of the Year.</p>
+            <p>And, Whereas Their Majesties Royal Ancestors have given and granted to the said Company, and their Successors for ever, and to their Deputies in the Out-Ports (thereunto Deputed under their common Seal) full Power and Authority to Survey the Building and Repairing of all Ships and Vessels of <hi>England</hi> and <hi>Wales;</hi> and all manner of Timber and Plank, and other Mate<g ref="char:EOLhyphen"/>rials prepared for the same; and to Inspect into the Workmanship, and re<g ref="char:EOLhyphen"/>move all Sappy and Red-Wood, and see that they be substantially Built, with two Orlops at convenient distance, strong to carry Ordnance aloft, and alowe with a Fore-Castle close for Fight: And have also given and granted unto the said Company, and to their Deputies in the Out-Ports, and their Succes<g ref="char:EOLhyphen"/>sors for ever, full Power and Authority to admeasure all Ships and other Vessels of <hi>England</hi> and <hi>Wales,</hi> and, as occasion requires, from time to time to lay them a ground; and, according to an exact Admeasurement of their length, breadth, depth, and draught of Water, so to Rate and set down their Burthen of Tons, and to Certifie the same under their Hands, and the com<g ref="char:EOLhyphen"/>mon Seal of the said Corporation.</p>
+            <p n="8">VIII. Now, to the end Surveys may be rendred more useful, and that Admeasurement be computed nearer the Truth, the Particulars following are proposed to be agreed upon, and settled by such By-Laws or General-Rules as the said Company shall appoint and order to be observed throughout <hi>England</hi> and <hi>Wales,</hi> and to enquire into the same at Surveys.</p>
+            <list>
+               <head>Particular</head>
+               <item>1. In Timbring of a Ship or Vessel, there be a general Rule, That the Floor-Timbers, the Futtocks, and Top-Timbers have a ser<g ref="char:EOLhyphen"/>viceable and sufficient Scarf to each other, with regard to the pro<g ref="char:EOLhyphen"/>portion of their Scantlings.</item>
+               <item>2. In Planking a Ship or Vessel there be a general Rule, That the Planks from Butt to Butt, have a serviceable and sufficient Scarf to each other, with regard to the Burthen and length of the Ship or Vessel, and the substance and length of the Planks.</item>
+               <item>3. A general Rule, That the Treenails, from the Keel to the second Plank, above the second Streek of <hi>Wales,</hi> Inclusive, be of seasoned young <hi>English</hi> Oak, fit for service under Water, and of a proportionable size to their length, agreeable to the Burthen of the Ship or Vessel; and that they Inspect into the well placing of them, with regard to the Timber and Plank they are to fasten and secure.</item>
+               <item>4. A general Rule, That the Bolts, and other Iron-work, be of a propor<g ref="char:EOLhyphen"/>tionable size to their length, agreeable to the Burthen of the Ship or Vessel; and that they inspect into the well-placing of them, with re<g ref="char:EOLhyphen"/>gard to the Timber and Plank, and part of the Ship or Vessel they are to fasten and secure.</item>
+               <item>5. A general Rule, That a proportionable number of threads of Hair, and of white and black <hi>Oakham,</hi> be appointed to be well drove and bottom'd in the Seams, with regard to the thickness of the Plank.</item>
+            </list>
+            <p n="9">IX. And, Whereas there are great abuses committed by the ill Hewing of Timber; It is therefore necessary a general Rule be observed, That all Timber, when squared, may be so Hewed, that the Flat do contain both the Waynes (and not less): And, That in converting of Timber into Plank, it be full Cut, and hold out, according to its proper denomination in Inches and parts of an Inch, and to be Admeasured between the Waynes on the Wayney-side, and half the Wayne allowed in Admeasurement, according to the usual Custom.</p>
+            <p n="10">X. And, inasmuch as Surveys are of necessary and absolute use, for the preservation of the lives of Their Majesties Subjects, and the security of Merchants Goods from damage, which often happens to the loss of Mariners Wages, and Their Majesties Customs: And, for that the Master-Builders, and other Skilful Master Shipwrights of <hi>England,</hi> are often called and summoned to attend on them, and do spend much of their time therein, both a float and a shore; therefore it is thought reasonable, That when the Master, Owners, or Freighters require to have a Ship or Vessel Surveyed, they may then be liable to pay one Penny <hi>per</hi> Ton for the said Survey: And to pre<g ref="char:EOLhyphen"/>vent unnecessary Disputes, vexatious Actions and Suits at Law, in case of damnified Goods, or the Foundering of a Ship or Vessel; it is expedi<g ref="char:EOLhyphen"/>ent, That the Masters of Ships, <hi>&amp;c.</hi> have a Certificate from the said Com<g ref="char:EOLhyphen"/>pany, to vouch for themselves and their Owners, that their Ships or Vessels have, by able and skilful Persons, been well Surveyed and Repaired, agreeable to the Rules and Ordinances of the Company of Shipwrights of <hi>England,</hi> and that they are fit for the Sea, and to receive in Merchants Goods for such a—Voyage.</p>
+            <p n="11">XI. That the said Company of Shipwrights of <hi>England,</hi> be required once a Year, or as often as may be thought fit, to present Their Majesties with a Scheme, or List of the Names of Ships, <hi>&amp;c.</hi> the time when Launched, and Place where Built, the Master Builders Names, and Numbers of Shipwrights and Apprentices in the Ports of <hi>England</hi> and <hi>Wales,</hi> and also the Names of the Ships and Vessels that are Cast, and to be broke up.</p>
+            <p n="12">XII. On behalf of the said Company, it is most humbly pray'd, That in the Amendment of the aforesaid Charter, there be a Clause for a small piece of wast Ground (in Their Majesties Gift) in some convenient Place near the River of <hi>Thames;</hi> and the like in the Rivers of <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vern, Medway,</hi> and <hi>Tine,</hi> in order for Alms-Houses to be Erected, that the Shipwrights of <hi>England</hi> may see the Relief and Maintenance of their poor disabled Cripples and super<g ref="char:EOLhyphen"/>annuated Members.</p>
+            <p>And it is further humbly Prayed, That the said Company may be ad<g ref="char:EOLhyphen"/>mitted to amend or add such other Heads or Clauses as may appear to be of Service and Reasonable.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
